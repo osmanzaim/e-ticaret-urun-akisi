@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-Ticaret Urun Akisi</string>
+    <string name="fotograf">Fotograf</string>
+    <string name="arti">+</string>
+
+    <style name="arti">+</style>
+</resources>
