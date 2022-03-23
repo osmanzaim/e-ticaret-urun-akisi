@@ -79,7 +79,7 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/divider"
-        app:srcCompat="@drawable/ua1" />
+        app:srcCompat="@drawable/foto1" />
 
     <TextView
         android:id="@+id/tvUrunMarka"

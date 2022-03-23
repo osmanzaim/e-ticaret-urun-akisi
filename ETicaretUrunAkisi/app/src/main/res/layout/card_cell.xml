@@ -29,15 +29,15 @@
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_marginTop="32dp"
-                android:contentDescription="@string/fotograf"
-                android:outlineProvider="bounds"
-                android:elevation="2dp"
                 android:clipToPadding="false"
-                app:shapeAppearanceOverlay="@style/roundimageview"
+                android:contentDescription="@string/fotograf"
+                android:elevation="1.9dp"
+                android:outlineProvider="bounds"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/ua3" />
+                app:shapeAppearanceOverlay="@style/roundimageview"
+                app:srcCompat="@drawable/foto1" />
 
             <TextView
                 android:id="@+id/tvMarka"
@@ -82,7 +82,7 @@
                 android:layout_marginStart="63dp"
                 android:layout_marginBottom="70dp"
                 android:background="@drawable/btn_ekle_background"
-                android:elevation="2dp"
+                android:elevation="3dp"
                 android:text="@string/arti"
                 android:textColor="@color/yesil"
                 android:textSize="16sp"
